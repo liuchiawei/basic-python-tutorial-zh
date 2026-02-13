@@ -12,7 +12,7 @@
 
 ## 📂 專案結構
 
-```
+```text
 Python/
 ├── Basic/                    # 基礎篇
 │   ├── 03-hello-world.py
